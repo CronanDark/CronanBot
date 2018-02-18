@@ -1,0 +1,14 @@
+MANIFEST.in
+requirements.txt
+setup.cfg
+setup.py
+Tokage.egg-info/PKG-INFO
+Tokage.egg-info/SOURCES.txt
+Tokage.egg-info/dependency_links.txt
+Tokage.egg-info/requires.txt
+Tokage.egg-info/top_level.txt
+tokage/__init__.py
+tokage/abc.py
+tokage/client.py
+tokage/errors.py
+tokage/http.py

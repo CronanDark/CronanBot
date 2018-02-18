@@ -1,0 +1,10 @@
+setup.cfg
+setup.py
+strawpy/__init__.py
+strawpy/strawpy.py
+strawpy/tests.py
+strawpy.egg-info/PKG-INFO
+strawpy.egg-info/SOURCES.txt
+strawpy.egg-info/dependency_links.txt
+strawpy.egg-info/requires.txt
+strawpy.egg-info/top_level.txt

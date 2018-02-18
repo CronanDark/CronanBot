@@ -1,0 +1,8 @@
+..\discord_webhooks\webhooks.py
+..\discord_webhooks\__init__.py
+..\discord_webhooks\__pycache__\webhooks.cpython-35.pyc
+..\discord_webhooks\__pycache__\__init__.cpython-35.pyc
+dependency_links.txt
+PKG-INFO
+SOURCES.txt
+top_level.txt

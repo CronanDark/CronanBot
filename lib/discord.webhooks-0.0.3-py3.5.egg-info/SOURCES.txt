@@ -1,0 +1,9 @@
+README.rst
+setup.cfg
+setup.py
+discord.webhooks.egg-info/PKG-INFO
+discord.webhooks.egg-info/SOURCES.txt
+discord.webhooks.egg-info/dependency_links.txt
+discord.webhooks.egg-info/top_level.txt
+discord_webhooks/__init__.py
+discord_webhooks/webhooks.py

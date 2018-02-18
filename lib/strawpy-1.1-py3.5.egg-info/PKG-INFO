@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: strawpy
+Version: 1.1
+Summary: Strawpy is a python wrapper for the strawpoll API.
+Home-page: https://github.com/EricDalrymple91/strawpy
+Author: Eric Dalrymple
+Author-email: ericjdalrymple@gmail.com
+License: MIT
+Download-URL: https://github.com/EricDalrymple91/strawpy/tarball/0.1
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Text Processing
+Classifier: Topic :: Multimedia :: Graphics :: Capture
+Classifier: Topic :: Multimedia :: Graphics :: Editors
+Classifier: Topic :: Multimedia :: Graphics :: Presentation
+Classifier: Topic :: Multimedia :: Graphics :: Viewers
+Classifier: Topic :: Games/Entertainment

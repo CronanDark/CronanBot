@@ -1,0 +1,11 @@
+..\strawpy\strawpy.py
+..\strawpy\tests.py
+..\strawpy\__init__.py
+..\strawpy\__pycache__\strawpy.cpython-35.pyc
+..\strawpy\__pycache__\tests.cpython-35.pyc
+..\strawpy\__pycache__\__init__.cpython-35.pyc
+dependency_links.txt
+PKG-INFO
+requires.txt
+SOURCES.txt
+top_level.txt

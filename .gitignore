@@ -1,0 +1,7 @@
+*.json
+*.pyc
+__pycache__
+data
+!data/trivia/*
+*.exe
+*.dll
