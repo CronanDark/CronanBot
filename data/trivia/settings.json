@@ -1,0 +1,9 @@
+{
+    "310613725805543424" : {
+        "BOT_PLAYS" : false,
+        "DELAY" : 20,
+        "MAX_SCORE" : 10,
+        "REVEAL_ANSWER" : true,
+        "TIMEOUT" : 120
+    }
+}

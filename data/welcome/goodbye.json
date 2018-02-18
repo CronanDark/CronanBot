@@ -1,0 +1,227 @@
+{
+    "220297883390443520" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "220297883390443520",
+        "GOODBYE" : [
+            "Goodbye {0.name}!"
+        ],
+        "ON" : false
+    },
+    "246496365713162240" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "246496365713162240",
+        "GOODBYE" : [
+            "Goodbye {0.name}!"
+        ],
+        "ON" : false
+    },
+    "264445053596991498" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "264445053596991498",
+        "GOODBYE" : [
+            "Goodbye {0.name}!"
+        ],
+        "ON" : false
+    },
+    "274300829274734593" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "274300829274734593",
+        "GOODBYE" : [
+            "Goodbye {0.name}!"
+        ],
+        "ON" : false
+    },
+    "277178127275524098" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "277178127275524098",
+        "GOODBYE" : [
+            "Goodbye {0.name}!"
+        ],
+        "ON" : false
+    },
+    "277839223502143488" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "277839223502143488",
+        "GOODBYE" : [
+            "Goodbye {0.name}!"
+        ],
+        "ON" : false
+    },
+    "300459722220503060" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "300459722220503060",
+        "GOODBYE" : [
+            "Goodbye {0.name}!"
+        ],
+        "ON" : false
+    },
+    "307625730727084032" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "307625730727084032",
+        "GOODBYE" : [
+            "Goodbye {0.name}!"
+        ],
+        "ON" : false
+    },
+    "310613725805543424" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "310613725805543424",
+        "GOODBYE" : [
+            "Goodbye {0.name}!"
+        ],
+        "ON" : false
+    },
+    "320416020110245889" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "320416020110245889",
+        "GOODBYE" : [
+            "Goodbye {0.name}!"
+        ],
+        "ON" : false
+    },
+    "321691955061063681" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "321691955061063681",
+        "GOODBYE" : [
+            "Goodbye {0.name}!"
+        ],
+        "ON" : false
+    },
+    "323067815995375618" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "323067815995375618",
+        "GOODBYE" : [
+            "Goodbye {0.name}!"
+        ],
+        "ON" : false
+    },
+    "324973536831733761" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "324973536831733761",
+        "GOODBYE" : [
+            "Goodbye {0.name}!"
+        ],
+        "ON" : false
+    },
+    "332126450780078081" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "332126450780078081",
+        "GOODBYE" : [
+            "Goodbye {0.name}!"
+        ],
+        "ON" : false
+    },
+    "333502128691740675" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "333502128691740675",
+        "GOODBYE" : [
+            "Goodbye {0.name}!"
+        ],
+        "ON" : false
+    },
+    "333949691962195969" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "333949691962195969",
+        "GOODBYE" : [
+            "Goodbye {0.name}!"
+        ],
+        "ON" : false
+    },
+    "335269380940103680" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "335269380940103680",
+        "GOODBYE" : [
+            "Goodbye {0.name}!"
+        ],
+        "ON" : false
+    },
+    "343466265446187018" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "343466265446187018",
+        "GOODBYE" : [
+            "Goodbye {0.name}!"
+        ],
+        "ON" : false
+    },
+    "344575096930959362" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : null,
+        "GOODBYE" : [
+            "Goodbye {0.name}!"
+        ],
+        "ON" : false
+    },
+    "347511781834620928" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : null,
+        "GOODBYE" : [
+            "Goodbye {0.name}!"
+        ],
+        "ON" : false
+    },
+    "351083253400207361" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "351083253400207362",
+        "GOODBYE" : [
+            "<@{0.id}>  wasn't man enough for the outback."
+        ],
+        "ON" : true
+    },
+    "351512285656645633" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : null,
+        "GOODBYE" : [
+            "Goodbye {0.name}!"
+        ],
+        "ON" : false
+    },
+    "353949931368742915" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : null,
+        "GOODBYE" : [
+            "Goodbye {0.name}!"
+        ],
+        "ON" : false
+    },
+    "354160475648425994" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : null,
+        "GOODBYE" : [
+            "Goodbye {0.name}!"
+        ],
+        "ON" : false
+    },
+    "365641059994304533" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "365641059994304536",
+        "GOODBYE" : [
+            "<@{0.id}> is not a true friend"
+        ],
+        "ON" : true
+    }
+}

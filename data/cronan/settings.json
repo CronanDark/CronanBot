@@ -1,0 +1,66 @@
+{
+    "246496365713162240" : {
+        "ADMIN_ROLE" : "Transistor",
+        "MOD_ROLE" : "Process",
+        "PREFIXES" : []
+    },
+    "277839223502143488" : {
+        "ADMIN_ROLE" : "Transistor",
+        "MOD_ROLE" : "Process",
+        "PREFIXES" : [
+            "+"
+        ]
+    },
+    "313861916076277761" : {
+        "ADMIN_ROLE" : "Transistor",
+        "MOD_ROLE" : "Process",
+        "PREFIXES" : [
+            "&"
+        ]
+    },
+    "321691955061063681" : {
+        "ADMIN_ROLE" : "Transistor",
+        "MOD_ROLE" : "Process",
+        "PREFIXES" : [
+            "$"
+        ]
+    },
+    "333502128691740675" : {
+        "ADMIN_ROLE" : "Head Woah",
+        "MOD_ROLE" : "Process",
+        "PREFIXES" : []
+    },
+    "344575096930959362" : {
+        "ADMIN_ROLE" : "Transistor",
+        "MOD_ROLE" : "Process",
+        "PREFIXES" : [
+            "/"
+        ]
+    },
+    "346748209906974741" : {
+        "ADMIN_ROLE" : "Transistor",
+        "MOD_ROLE" : "Process",
+        "PREFIXES" : [
+            "!"
+        ]
+    },
+    "350404443465842688" : {
+        "ADMIN_ROLE" : "Transistor",
+        "MOD_ROLE" : "Process",
+        "PREFIXES" : [
+            "~"
+        ]
+    },
+    "EMAIL" : null,
+    "OWNER" : "169593870777057280",
+    "PASSWORD" : null,
+    "PREFIXES" : [
+        "->"
+    ],
+    "TOKEN" : "MzU4MDMzMDc4Njk2MDE3OTMw.DJyjzQ._jCiuhAwmeGMw_a_3GHjgwcNe9U",
+    "default" : {
+        "ADMIN_ROLE" : "Transistor",
+        "MOD_ROLE" : "Process",
+        "PREFIXES" : []
+    }
+}

@@ -1,0 +1,202 @@
+{
+    "220297883390443520" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "354051184606314496",
+        "GREETING" : [
+            "Welcome {0.name} to {1.name}!"
+        ],
+        "ON" : false,
+        "WHISPER" : false
+    },
+    "246496365713162240" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "246496365713162240",
+        "GREETING" : [
+            "Welcome {0.name} to {1.name}!"
+        ],
+        "ON" : false,
+        "WHISPER" : false
+    },
+    "264445053596991498" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "264445053596991498",
+        "GREETING" : [
+            "Welcome {0.name} to {1.name}!"
+        ],
+        "ON" : false,
+        "WHISPER" : false
+    },
+    "274300829274734593" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "274300829274734593",
+        "GREETING" : [
+            "Welcome {0.name} to {1.name}!"
+        ],
+        "ON" : false,
+        "WHISPER" : false
+    },
+    "277839223502143488" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "277839223502143488",
+        "GREETING" : [
+            "Welcome {0.name} to {1.name}!"
+        ],
+        "ON" : false,
+        "WHISPER" : false
+    },
+    "300459722220503060" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "300459722220503060",
+        "GREETING" : [
+            "Welcome {0.name} to {1.name}!"
+        ],
+        "ON" : false,
+        "WHISPER" : false
+    },
+    "307625730727084032" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "307625730727084032",
+        "GREETING" : [
+            "Welcome {0.name} to {1.name}!"
+        ],
+        "ON" : false,
+        "WHISPER" : false
+    },
+    "310613725805543424" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "310613725805543424",
+        "GREETING" : [
+            "Welcome {0.name} to {1.name}!"
+        ],
+        "ON" : false,
+        "WHISPER" : false
+    },
+    "320416020110245889" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "320416020110245889",
+        "GREETING" : [
+            "Welcome {0.name} to {1.name}!"
+        ],
+        "ON" : false,
+        "WHISPER" : false
+    },
+    "321691955061063681" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "321691955061063681",
+        "GREETING" : [
+            "Welcome {0.name} to {1.name}!"
+        ],
+        "ON" : false,
+        "WHISPER" : false
+    },
+    "324973536831733761" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "324973536831733761",
+        "GREETING" : [
+            "Welcome {0.name} to {1.name}!"
+        ],
+        "ON" : false,
+        "WHISPER" : false
+    },
+    "332126450780078081" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "332126450780078081",
+        "GREETING" : [
+            "Welcome {0.name} to {1.name}!"
+        ],
+        "ON" : false,
+        "WHISPER" : false
+    },
+    "333502128691740675" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "333502128691740675",
+        "GREETING" : [
+            "Welcome {0.name} to {1.name}!"
+        ],
+        "ON" : false,
+        "WHISPER" : false
+    },
+    "333949691962195969" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "333949691962195969",
+        "GREETING" : [
+            "Welcome {0.name} to {1.name}!"
+        ],
+        "ON" : false,
+        "WHISPER" : false
+    },
+    "335269380940103680" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "335269380940103680",
+        "GREETING" : [
+            "Welcome {0.name} to {1.name}!"
+        ],
+        "ON" : false,
+        "WHISPER" : false
+    },
+    "343466265446187018" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "343466265446187018",
+        "GREETING" : [
+            "Welcome {0.name} to {1.name}!"
+        ],
+        "ON" : false,
+        "WHISPER" : false
+    },
+    "347511781834620928" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : null,
+        "GREETING" : [
+            "Welcome {0.name} to {1.name}!"
+        ],
+        "ON" : false,
+        "WHISPER" : false
+    },
+    "351083253400207361" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "351083253400207362",
+        "GREETING" : [
+            "G'day *{0.mention}*. Have a bonza of a time here on **__{1.name}__**."
+        ],
+        "ON" : false,
+        "WHISPER" : false
+    },
+    "351512285656645633" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : null,
+        "GREETING" : [
+            "Welcome {0.name} to {1.name}!"
+        ],
+        "ON" : false,
+        "WHISPER" : false
+    },
+    "355221066525966336" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : null,
+        "GREETING" : [
+            "Welcome {0.name} to {1.name}!"
+        ],
+        "ON" : false,
+        "WHISPER" : false
+    }
+}

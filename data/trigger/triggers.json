@@ -1,0 +1,128 @@
+[
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "whocronan",
+        "owner" : "169593870777057280",
+        "regex" : false,
+        "responses" : [
+            "The cringiest youtuber ever to exist among the earth"
+        ],
+        "server" : "333502128691740675",
+        "triggered" : 14,
+        "triggered_by" : "Who is cronan",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "cronan",
+        "owner" : "169593870777057280",
+        "regex" : false,
+        "responses" : [
+            "ew... y do u like that cringy yter who cant even code me right or have me alive 24/7"
+        ],
+        "server" : null,
+        "triggered" : 630,
+        "triggered_by" : "cronan",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "Abomb",
+        "owner" : "169593870777057280",
+        "regex" : false,
+        "responses" : [
+            "<:Woah:332869268368785410>"
+        ],
+        "server" : "246496365713162240",
+        "triggered" : 18,
+        "triggered_by" : "abomb",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "larry",
+        "owner" : "169593870777057280",
+        "regex" : false,
+        "responses" : [],
+        "server" : "310613725805543424",
+        "triggered" : 58,
+        "triggered_by" : "who",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "help",
+        "owner" : "169593870777057280",
+        "regex" : false,
+        "responses" : [
+            "Type `->help` for lists of commands."
+        ],
+        "server" : null,
+        "triggered" : 0,
+        "triggered_by" : "Type `c!help` for lists of commands.",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "help2",
+        "owner" : "169593870777057280",
+        "regex" : false,
+        "responses" : [
+            "Type `->help` for lists of commands."
+        ],
+        "server" : null,
+        "triggered" : 6,
+        "triggered_by" : "c!help",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "cringe",
+        "owner" : "169593870777057280",
+        "regex" : false,
+        "responses" : [
+            "yall talkin about cronan?"
+        ],
+        "server" : null,
+        "triggered" : 64,
+        "triggered_by" : "cring",
+        "type" : "all"
+    },
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "channels" : {},
+        "cooldown" : 1,
+        "name" : "xi",
+        "owner" : "169593870777057280",
+        "regex" : false,
+        "responses" : [
+            "stay away from him julia"
+        ],
+        "server" : "300459722220503060",
+        "triggered" : 204,
+        "triggered_by" : "xi",
+        "type" : "all"
+    }
+]

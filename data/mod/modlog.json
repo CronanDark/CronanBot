@@ -1,0 +1,36 @@
+{
+    "333502128691740675" : {
+        "1" : {
+            "action" : "SMUTE",
+            "amended_by" : null,
+            "amended_id" : null,
+            "case" : 1,
+            "channel" : null,
+            "created" : 1503282490.629269,
+            "message" : "348956413323902976",
+            "moderator" : "Cronan The Dark Gamer#8570",
+            "moderator_id" : "169593870777057280",
+            "modified" : null,
+            "reason" : null,
+            "until" : null,
+            "user" : "\u0126\u20ac\u30e1#7434",
+            "user_id" : "278618030219591680"
+        },
+        "2" : {
+            "action" : "CMUTE",
+            "amended_by" : null,
+            "amended_id" : null,
+            "case" : 2,
+            "channel" : "333502128691740675",
+            "created" : 1503283501.50179,
+            "message" : "348960653081444373",
+            "moderator" : "Cronan The Dark Gamer#8570",
+            "moderator_id" : "169593870777057280",
+            "modified" : null,
+            "reason" : "No Reason Given",
+            "until" : null,
+            "user" : "NotSoBot#0997",
+            "user_id" : "170903342199865344"
+        }
+    }
+}
